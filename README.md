@@ -1,4 +1,4 @@
-# Project 3 Proposal: Hospital Infection Controls  
+# Project 3: Hospital Infection Controls  
 
 ## Group 5 - Members Contribution:  
 
@@ -20,8 +20,7 @@ incidence of HAIs.
 ### Data Source and Public Interest
 
 The dataset “Healthcare Associated Infections - Hospital”
-https://www.kaggle.com/datasets/muhammadfaizan65/hospital-infections-dataset?resour
-ce=download was sourced from Kaggle.  
+https://www.kaggle.com/datasets/muhammadfaizan65/hospital-infections-dataset?resource=download was sourced from Kaggle.  
 
 This dataset is highly relevant to public health as it addresses a critical aspect of patient
 safety within healthcare settings. HAIs are a significant concern worldwide, leading to
