@@ -30,11 +30,11 @@ strategies.
 
 ### Data Safety and Legal Consideration
 
-* Data Safety: The dataset contains anonymized and aggregated data, which means no
+* *Data Safety*: The dataset contains anonymized and aggregated data, which means no
 personally identifiable information (PII) is included. This reduces the risk of violating
 patients’ sensitive information.
 
-* Legal Considerations: The dataset is publicly available on Kaggle which implies that it
+* *Legal Considerations*: The dataset is publicly available on Kaggle which implies that it
 has been shared under terms that allow for public use. Therefore, it is used ethically and
 responsibly. We will ensure compliance with all relevant data protection laws and
 guidelines, such as ThefulltextoftheGeneralDataProtectionRegulation(GDPR), by not
