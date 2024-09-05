@@ -8,7 +8,7 @@ Zahra Razook (Project Planner)
 
 Yuqi Huang (Proposal)  
 
-### 1. Purpose of our Project
+### Purpose of our Project
 
 The primary purpose of this project is to analyze hospital infection control data to identify
 patterns, trends, and potential risk factors associated with healthcare-associated
@@ -17,7 +17,7 @@ comprehensive and actionable insights that can help healthcare professionals and
 hospital administrators improve infection control measures, consequentially reducing the
 incidence of HAIs.  
 
-#### 2. Data Source and Public Interest
+### Data Source and Public Interest
 
 The dataset “Healthcare Associated Infections - Hospital”
 https://www.kaggle.com/datasets/muhammadfaizan65/hospital-infections-dataset?resour
@@ -30,7 +30,7 @@ additional healthcare costs (Mitchell et al., 2019). By analyzing this dataset, 
 contribute to public health awareness and promote more effective infection control
 strategies.  
 
-##### 3. Data Safety and Legal Consideration
+### Data Safety and Legal Consideration
 
 * Data Safety: The dataset contains anonymized and aggregated data, which means no
 personally identifiable information (PII) is included. This reduces the risk of violating
@@ -42,13 +42,13 @@ responsibly. We will ensure compliance with all relevant data protection laws an
 guidelines, such as ThefulltextoftheGeneralDataProtectionRegulation(GDPR), by not
 including any PII and using the data solely for educational and research purposes.  
 
-###### 4.Data visualization path  
+### Data visualization path  
 
 We aim to create at least three data visualizations using Python libraries such as Pandas,
 Matplotib, Plotly, or JavaScript. These visualizations can present data insights clearly and
 interactively.  
 
-Goal:  
+### Goal:  
 
 To assess and improve hospital infection control practices by analyzing performance against
 national benchmarks, identifying areas for improvement, and understanding regional and
