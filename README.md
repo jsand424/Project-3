@@ -1,4 +1,5 @@
-Project 3 Proposal: Hospital Infection
+Project 3 Proposal: Hospital Infection  
+
 Controls
 Group 5 - Members Contribution:
 Jackson Sandler (Group Leader)
