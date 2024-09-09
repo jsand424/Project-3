@@ -23,8 +23,8 @@ The dataset refers to [Healthcare Associated Infections - Hospital](https://www.
 
 This dataset is highly relevant to public health as it addresses a critical aspect of patient
 safety within healthcare settings. HAIs are a significant concern worldwide, leading to
-increased patient morbidity, extended hospital stays (Zimlichman et al., 2013) and
-additional healthcare costs (Mitchell et al., 2019). By analyzing this dataset, we aim to
+increased patient morbidity, extended hospital stays [Zimlichman et al., 2013](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1733452) and
+additional healthcare costs [Mitchell et al., 2017](https://www.sciencedirect.com/science/article/pii/S2468045117300433). By analyzing this dataset, we aim to
 contribute to public health awareness and promote more effective infection control
 strategies.  
 
@@ -67,7 +67,7 @@ ETA
    3) Database with two tables 
 4. Data Analysis
    1) Select key metrics regrading to the evidence-based guideline
-      - **Standardized Infection Ratio (SIR)**, which compares observed infections to predicted ones.
+      - **Standardized Infection Ratio (SIR)**, which compares observed infections to predicted ones.[The NHSN Standardized Infection Ratio (SIR). A Guide to the SIR (March, 2024)](https://www.cdc.gov/nhsn/pdfs/ps-analysis-resources/nhsn-sir-guide.pdf)
       - A ratio of less than 1 means fewer infections than expected (better performance), and a ratio greater than 1 means more infections than expected (worse performance). The SIR helps standardize infection rates across hospitals of different sizes and patient populations.
    2) Create pie and bar charts comparing the cleaned data
       - States
