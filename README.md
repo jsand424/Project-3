@@ -63,14 +63,19 @@ ETA
    2) Standardized formats
 2. Data Transformation & Cleaning
    1) Date cleaning: Missing values outliers
-   2) Created new variables
+   2) Created new variables that allow us to gain further insights
    3) Database with two tables 
 4. Data Analysis
    1) Select key metrics regrading to the evidence-based guideline
+      - **Standardized Infection Ratio (SIR)**, which compares observed infections to predicted ones.
+      - A ratio of less than 1 means fewer infections than expected (better performance), and a ratio greater than 1 means more infections than expected (worse performance). The SIR helps standardize infection rates across hospitals of different sizes and patient populations.
    2) Create pie and bar charts comparing the cleaned data
+      - States
+      - Local hospitals
    3) Key findings draw a conclusion
 
 ## ✅ Conclusion
+This project has successfully highlighted important insights into hospital infection control performance, with **ST ROSE DOMINICAN HOSPITALS - SIENA CAMPUS** in **Nevada** state emerging as a top performer. Healthcare providers in other hospitals can adopt protocols from ST ROSE DOMINICAN HOSPITALS for better infection management, especially in **central line-associated infections**, **catheter-associated urinary tract infections**, and **C.diff** (Colon-associated Bacteria) prevention. These protocols could help promote better patient outcomes across acute and surgical settings. By adopting infection control protocols from top-performing hospitals and focusing on areas of weakness, hospitals can significantly reduce infection rates and improve patient outcomes. As data analysts, we can further improve future projects by leveraging more granular data, predictive models, and close collaboration with healthcare professionals to deliver actionable insights.
 
 ### Usage of Jupyter Notebook
 ``` bash
@@ -95,7 +100,7 @@ The link was generated from the Github:
 ## 📈 Future Improvement
 While our analysis provided significant insights, there are several areas where we can improve our approach for future projects:
 * *Enhanced Data Granularity*:
-Future projects can benefit from more granular data—including patient demographics, hospital department-specific data, and details of infection control interventions. This will allow for more precise analysis and tailored recommendations.
+Future projects can benefit from more granular data—including patient demographics, hospital department-specific data, and details of infection control interventions (eg. Hand hygiene, Aseptic technique). This will allow for more precise analysis and tailored recommendations.
 
 * *Incorporate Benchmarks*:
 In future analyses, we can incorporate international benchmarks or regional peer comparisons to provide hospitals with a broader context of their performance. This will enable hospitals to understand how they compare not just nationally, but globally.
