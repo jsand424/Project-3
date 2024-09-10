@@ -64,7 +64,9 @@ ETA
 2. Data Transformation & Cleaning
    1) Date cleaning: Missing values outliers
    2) Created new variables that allow us to gain further insights
-   3) Database with two tables 
+   3) Database with two tables
+      - Hospital Table
+      - Measure Table
 4. Data Analysis
    1) Select key metrics regrading to the evidence-based guideline
       - **Standardized Infection Ratio (SIR)**, which compares observed infections to predicted ones.[The NHSN Standardized Infection Ratio (SIR). A Guide to the SIR (March, 2024)](https://www.cdc.gov/nhsn/pdfs/ps-analysis-resources/nhsn-sir-guide.pdf)
@@ -87,15 +89,11 @@ git clone https://github.com/jsand424/Project-3.git
 conda activate dev
 jupyter notebook
 ```
-
-### Deploy the Interactive App
-The final interactive App can be directed into our website by clicking [Helathcare Performance Dashboard]()
-
-The link was generated from the Github:
-1) Slect 'Settings'![image](https://github.com/user-attachments/assets/d15e1efd-af7a-4fed-8178-e71a290f8193)
-2) In the Settings Section, select 'Pages'
-3) Choose the 'main' branch and 'Save'
-![image](https://github.com/user-attachments/assets/c8e458af-a964-449c-bbb4-6567772a78c6)
+## 📋 Access to the Interative App
+``` bash
+python -m http.server 8080
+## Then open the local host in your web browser, entering: http://localhost:8080
+## Drag down the Hospital ID to explore and choose your first-picked hospital 😍
 
 ## 📈 Future Improvement
 While our analysis provided significant insights, there are several areas where we can improve our approach for future projects:
