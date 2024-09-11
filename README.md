@@ -72,12 +72,17 @@ ETA
       - **Standardized Infection Ratio (SIR)**, which compares observed infections to predicted ones.[The NHSN Standardized Infection Ratio (SIR). A Guide to the SIR (March, 2024)](https://www.cdc.gov/nhsn/pdfs/ps-analysis-resources/nhsn-sir-guide.pdf)
       - A ratio of less than 1 means fewer infections than expected (better performance), and a ratio greater than 1 means more infections than expected (worse performance). The SIR helps standardize infection rates across hospitals of different sizes and patient populations.
    2) Create pie and bar charts comparing the cleaned data
-      - States
-      - Local hospitals
-   3) Key findings draw a conclusion
+      - States (California)
+      - Top 3 Better Performance hospitals in US
+   3) Key findings to draw a conclusion
 
 ## ✅ Conclusion
-This project has successfully highlighted important insights into hospital infection control performance, with **ST ROSE DOMINICAN HOSPITALS - SIENA CAMPUS** in **Nevada** state emerging as a top performer. Healthcare providers in other hospitals can adopt protocols from ST ROSE DOMINICAN HOSPITALS for better infection management, especially in **central line-associated infections**, **catheter-associated urinary tract infections**, and **C.diff** (Colon-associated Bacteria) prevention. These protocols could help promote better patient outcomes across acute and surgical settings. By adopting infection control protocols from top-performing hospitals and focusing on areas of weakness, hospitals can significantly reduce infection rates and improve patient outcomes. As data analysts, we can further improve future projects by leveraging more granular data, predictive models, and close collaboration with healthcare professionals to deliver actionable insights.
+Our group project successfully analyzed hospital infection control performance using Standardized Infection Ratio (SIR) scores across various healthcare-associated infections (HAIs). We highlighted that hospitals such as **ST ROSE DOMINICAN HOSPITALS - SIENA CAMPUS** in **Nevada** excelled in managing **central-line associated Infections**, while others, like **ST FRANCIS HEALTH CENTER INC** in **Kansas**, showed areas for improvement, particularly in **Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections)**. In addition, **Northeast Georgia Medical Center, Inc. in Georgia** has an exellent management in **catheter-associated Urinary Tract Infections**. 
+
+This analysis demonstrates the importance of data-driven insights in improving hospital infection control measures. By adopting the best practices and protocols from ST ROSE DOMINICAN HOSPITALS - SIENA CAMPUS (CLABSI (ICUs only)), healthcare providers can significantly reduce fetal central line-associated bloodstream infection rates and improve patient outcomes in Intensive Care Units. As for catheter-associated Urinary Tract Infections control, we can adopt the practices and protocols from Northeast Georgia Medical Center, Inc.
+
+Moving forward, future analyses can be enhanced by incorporating more granular data, predictive analytics, and interactive visualizations to provide hospitals with actionable insights for ongoing improvement in infection control.
+
 
 ### Usage of Jupyter Notebook
 ``` bash
